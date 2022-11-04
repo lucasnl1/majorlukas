@@ -1,6 +1,6 @@
-### Olá, bem vindo!!
-### Eu sou o Lucas Nascimento.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=778899&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Nascimento;I'm+28+years+old;I'm+from+Brazil;I+Student+of+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de ADS (Análise e Desenvolviemnto de Sistemas)
