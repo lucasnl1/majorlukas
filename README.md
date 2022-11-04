@@ -1,5 +1,5 @@
-### Olá!
-### bem vindo, eu sou o Lucas Nascimento
+### Olá, bem vindo!!
+### Eu sou o Lucas Nascimento.
 
 
 - 🔭 Apaixonado por tecnologia
