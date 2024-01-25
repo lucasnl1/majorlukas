@@ -6,11 +6,11 @@
   - 🌱 Estudante de ADS (Análise e Desenvolviemnto de Sistemas) </h3>
 </div>
 
-<div align="center">
+<div align="center" width="60%">
   <a href="https://github.com/majorlukas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majorlukas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
-<div align="center">
+<div align="center" width="60%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorlukas&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block" align="center"><br>
