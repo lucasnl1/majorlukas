@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3> 🔭 Desenvolvedor Java/JavaScript
-  - 🌱 Estudante de ADS (Análise e Desenvolviemnto de Sistemas) </h3>
+  - 🌱 Estudante de ADS </h3>
 </div>
 
 <div align="center">
