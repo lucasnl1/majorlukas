@@ -8,8 +8,8 @@
 
 <div align="center" width="60%">
   <a href="https://github.com/majorlukas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majorlukas&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorlukas&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majorlukas&show_icons=true&theme=ambient_gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorlukas&layout=compact&langs_count=7&theme=ambient_gradient"/>
 </div>
 </div>
 <div style="display: inline_block" align="center"><br>
