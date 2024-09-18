@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" width="60%">
-  <a href="https://github.com/majorlukas">
+  <a href="https://github.com/lucasnl1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majorlukas&show_icons=true&theme=outrun"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorlukas&layout=compact&langs_count=7&theme=outrun"/>
 </div>
