@@ -8,8 +8,8 @@
 
 <div align="center" width="60%">
   <a href="https://github.com/lucasnl1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majorlukas&show_icons=true&theme=outrun"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorlukas&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnl1&show_icons=true&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnl1&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 </div>
 <div style="display: inline_block" align="center"><br>
